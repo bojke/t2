@@ -1,0 +1,987 @@
+#EXTM3U
+#EXTINF:-1 group-title="Nacionalni Slo" tvg-id="2" tvg-name="2" tvg-logo="SLO_1.png",SLO 1
+udp://@239.10.2.9:5000
+#EXTINF:-1 group-title="Nacionalni Slo" tvg-id="3" tvg-name="3" tvg-logo="SLO_2.png",SLO 2
+udp://@239.10.2.11:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="1000277" tvg-name="1000277" tvg-logo="Planet_TV.png",Planet TV
+udp://@239.10.2.68:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="4" tvg-name="4" tvg-logo="POP_TV.png",POP TV
+udp://@239.10.2.12:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="5" tvg-name="5" tvg-logo="Kanal_A.png",Kanal A
+udp://@239.10.2.13:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="1000093" tvg-name="1000093" tvg-logo="TV_3_Medias.png",TV3 Medias
+udp://@239.10.2.15:5000
+#EXTINF:-1 group-title="Lokalni Slo" tvg-id="1000002" tvg-name="1000002" tvg-logo="Vas_kanal.png",Vaš kanal
+udp://@239.10.2.25:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="6" tvg-name="6" tvg-logo="POP_Brio.png",POP Brio
+udp://@239.14.2.49:5000
+#EXTINF:-1 group-title="Zabavni" tvg-logo="Gostilna.png",Gostilna
+udp://@239.14.2.7:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="1000403" tvg-name="1000403" tvg-logo="TV_8.png",TV 8
+udp://@239.10.2.22:5000
+#EXTINF:-1 group-title="Nacionalni tuji" tvg-id="105" tvg-name="105" tvg-logo="HRT_1.png",HRT 1
+udp://@239.11.2.95:5000
+#EXTINF:-1 group-title="Nacionalni tuji" tvg-id="106" tvg-name="106" tvg-logo="HRT_2.png",HRT 2
+udp://@239.11.2.96:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="1000314" tvg-name="1000314" tvg-logo="RTL_TV.png",RTL TV
+udp://@239.14.2.1:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="1000322" tvg-name="1000322" tvg-logo="RTL_2_HR.png",RTL 2 Hrvaška
+udp://@239.14.2.2:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="1000323" tvg-name="1000323" tvg-logo="RTL_Living.png",RTL Living
+udp://@239.14.2.0:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="NOVA_TV" tvg-name="NOVA_TV" tvg-logo="Nova_TV.png",Nova TV
+udp://@239.14.2.14:5000
+#EXTINF:-1 group-title="Informativni" tvg-id="1000180" tvg-name="1000180" tvg-logo="Al_Jazeera_Balk.png",Al Jazeera Balk
+udp://@239.13.2.214:5000
+#EXTINF:-1 group-title="Filmski" tvg-id="1000427" tvg-name="1000427" tvg-logo="CineStar_Action_Thriller.png",CineStar TV Action & Thriller
+udp://@239.19.2.242:5000
+#EXTINF:-1 group-title="Filmski" tvg-id="1000429" tvg-name="1000429" tvg-logo="CineStar_TV_Premiere_1.png",CineStar TV Premiere 1
+udp://@239.19.2.243:5000
+#EXTINF:-1 group-title="Filmski" tvg-id="1000428" tvg-name="1000428" tvg-logo="CineStar_TV_Premiere_2.png",CineStar TV Premiere 2
+udp://@239.19.2.244:5000
+#EXTINF:-1 group-title="Filmski" tvg-id="1000127" tvg-name="1000127" tvg-logo="POP_Kino.png",POP Kino
+udp://@239.14.2.48:5000
+#EXTINF:-1 group-title="Filmski" tvg-id="1000015" tvg-name="1000015" tvg-logo="HBO.png",HBO
+udp://@239.16.2.252:5000
+#EXTINF:-1 group-title="Filmski" tvg-id="1000016" tvg-name="1000016" tvg-logo="HBO_2.png",HBO 2
+udp://@239.16.2.253:5000
+#EXTINF:-1 group-title="Filmski" tvg-id="1000131" tvg-name="1000131" tvg-logo="Cinemax.png",Cinemax
+udp://@239.16.2.254:5000
+#EXTINF:-1 group-title="Filmski" tvg-id="1000435" tvg-name="1000435" tvg-logo="HBO_3.png",HBO 3
+udp://@239.16.2.251:5000
+#EXTINF:-1 group-title="Filmski" tvg-id="1000132" tvg-name="1000132" tvg-logo="Cinemax_2.png",Cinemax 2
+udp://@239.16.2.255:5000
+#EXTINF:-1 group-title="Filmski" tvg-id="1000085" tvg-name="1000085" tvg-logo="CineStar_TV.png",CineStar TV
+udp://@239.11.2.142:5000
+#EXTINF:-1 group-title="Filmski" tvg-id="1000010" tvg-name="1000010" tvg-logo="TV1000.png",TV1000
+udp://@239.11.2.126:5000
+#EXTINF:-1 group-title="Filmski" tvg-id="1000028" tvg-name="1000028" tvg-logo="AMC.png",AMC
+udp://@239.11.2.100:5000
+#EXTINF:-1 group-title="Filmski" tvg-id="1000154" tvg-name="1000154" tvg-logo="Klasik_TV.png",Klasik TV
+udp://@239.12.2.146:5000
+#EXTINF:-1 group-title="Filmski" tvg-id="1000096" tvg-name="1000096" tvg-logo="Pink_Film.png",Pink Film
+udp://@239.17.2.248:5000
+#EXTINF:-1 group-title="Filmski" tvg-id="1000350" tvg-name="1000350" tvg-logo="Pink_Movies.png",Pink Movies
+udp://@239.17.2.76:5000
+#EXTINF:-1 group-title="Filmski" tvg-id="1000298" tvg-name="1000298" tvg-logo="FOX.png",FOX
+udp://@239.12.2.164:5000
+#EXTINF:-1 group-title="Filmski" tvg-id="1000312" tvg-name="1000312" tvg-logo="FOX_Movies.png",FOX Movies
+udp://@239.19.2.203:5000
+#EXTINF:-1 group-title="Filmski" tvg-id="1000032" tvg-name="1000032" tvg-logo="FOX_Life.png",FOX Life
+udp://@239.12.2.144:5000
+#EXTINF:-1 group-title="Filmski" tvg-id="1000033" tvg-name="1000033" tvg-logo="FOX_Crime.png",FOX Crime
+udp://@239.12.2.143:5000
+#EXTINF:-1 group-title="Filmski" tvg-id="2000000040" tvg-name="2000000040" tvg-logo="Universal_Channel.png",Universal Channel
+udp://@239.11.2.125:5000
+#EXTINF:-1 group-title="Filmski" tvg-id="1000300" tvg-name="1000300" tvg-logo="AXN_Spin.png",AXN Spin
+udp://@239.19.2.202:5000
+#EXTINF:-1 group-title="Lokalni tuji" tvg-id="1000227" tvg-name="1000227" tvg-logo="Tring_Max.png",Tring Max
+udp://@239.13.2.207:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="45" tvg-name="45" tvg-logo="CBS_Drama.png",CBS Drama
+udp://@239.11.2.130:5000
+#EXTINF:-1 group-title="Dokumentarni" tvg-id="20" tvg-name="20" tvg-logo="Animal_Planet.png",Animal Planet
+udp://@239.11.2.73:5000
+#EXTINF:-1 group-title="Dokumentarni" tvg-id="42" tvg-name="42" tvg-logo="National_Geographic.png",National Geographic
+udp://@239.11.2.104:5000
+#EXTINF:-1 group-title="Dokumentarni" tvg-id="18" tvg-name="18" tvg-logo="National_Geographic_Wild.png",National Geographic Wild
+udp://@239.19.2.201:5000
+#EXTINF:-1 group-title="Dokumentarni" tvg-id="26" tvg-name="26" tvg-logo="Discovery_Channel.png",Discovery Channel
+udp://@239.11.2.81:5000
+#EXTINF:-1 group-title="Dokumentarni" tvg-id="28" tvg-name="28" tvg-logo="Discovery_Science.png",Discovery Science
+udp://@239.12.2.141:5000
+#EXTINF:-1 group-title="Dokumentarni" tvg-id="27" tvg-name="27" tvg-logo="Discovery_World.png",Discovery World
+udp://@239.12.2.148:5000
+#EXTINF:-1 group-title="Dokumentarni" tvg-id="1000250" tvg-name="1000250" tvg-logo="Discovery_ID.png",Discovery ID
+udp://@239.12.2.145:5000
+#EXTINF:-1 group-title="Dokumentarni" tvg-id="1000153" tvg-name="1000153" tvg-logo="Crime_&_Investigation.png",Crime & Investigation
+udp://@239.12.2.173:5000
+#EXTINF:-1 group-title="Dokumentarni" tvg-id="1000043" tvg-name="1000043" tvg-logo="History_Channel.png",History Channel
+udp://@239.11.2.121:5000
+#EXTINF:-1 group-title="Dokumentarni" tvg-id="1000046" tvg-name="1000046" tvg-logo="Viasat_History.png",Viasat History
+udp://@239.12.2.160:5000
+#EXTINF:-1 group-title="Dokumentarni" tvg-id="1000081" tvg-name="1000081" tvg-logo="Viasat_Nature.png",Viasat Nature
+udp://@239.12.2.169:5000
+#EXTINF:-1 group-title="Dokumentarni" tvg-id="1000045" tvg-name="1000045" tvg-logo="Viasat_Explorer.png",Viasat Explorer
+udp://@239.12.2.156:5000
+#EXTINF:-1 group-title="Dokumentarni" tvg-id="44" tvg-name="44" tvg-logo="CBS_Reality.png",CBS Reality
+udp://@239.11.2.129:5000
+#EXTINF:-1 group-title="Dokumentarni" tvg-id="48" tvg-name="48" tvg-logo="Travel_Channel.png",Travel Channel
+udp://@239.11.2.122:5000
+#EXTINF:-1 group-title="Dokumentarni" tvg-id="1000292" tvg-name="1000292" tvg-logo="TLC.png",TLC
+udp://@239.12.2.163:5000
+#EXTINF:-1 group-title="Dokumentarni" tvg-id="DW" tvg-name="DW" tvg-logo="DW.png",DW
+udp://@239.1.2.49:5000
+#EXTINF:-1 group-title="Dokumentarni" tvg-id="1000055" tvg-name="1000055" tvg-logo="Da_Vinci_Learning.png",Da Vinci Learning
+udp://@239.11.2.80:5000
+#EXTINF:-1 group-title="Športni" tvg-id="1000305" tvg-name="1000305" tvg-logo="Outdoor_Channel.png",Outdoor Channel
+udp://@239.11.2.91:5000
+#EXTINF:-1 group-title="Dokumentarni" tvg-id="1000245" tvg-name="1000245" tvg-logo="Lov_i_ribolov.png",Lov i ribolov
+udp://@239.11.2.92:5000
+#EXTINF:-1 group-title="Dokumentarni" tvg-id="1000399" tvg-name="1000399" tvg-logo="Medical_Channel.png",Medical Channel
+udp://@239.11.2.132:5000
+#EXTINF:-1 group-title="Športni" tvg-id="1000009" tvg-name="1000009" tvg-logo="Sport_TV.png",Šport TV
+udp://@239.11.2.120:5000
+#EXTINF:-1 group-title="Športni" tvg-id="1000024" tvg-name="1000024" tvg-logo="Sport_TV_2.png",Šport TV 2
+udp://@239.12.2.176:5000
+#EXTINF:-1 group-title="Športni" tvg-id="1000382" tvg-name="1000382" tvg-logo="Sport_TV_3.png",Šport TV 3
+udp://@239.12.2.152:5000
+#EXTINF:-1 group-title="Športni" tvg-id="2000000059" tvg-name="2000000059" tvg-logo="Sportklub_1.png",Sportklub 1
+udp://@239.11.2.118:5000
+#EXTINF:-1 group-title="Športni" tvg-id="2000000057" tvg-name="2000000057" tvg-logo="Sportklub_2.png",Sportklub 2
+udp://@239.11.2.101:5000
+#EXTINF:-1 group-title="Športni" tvg-id="1000410" tvg-name="1000410" tvg-logo="Sportklub_3.png",Sportklub 3
+udp://@239.12.2.161:5000
+#EXTINF:-1 group-title="Športni" tvg-id="1000412" tvg-name="1000412" tvg-logo="Sportklub_4.png",Sportklub 4
+udp://@239.12.2.162:5000
+#EXTINF:-1 group-title="Športni" tvg-id="1000414" tvg-name="1000414" tvg-logo="Sportklub_5.png",Sportklub 5
+udp://@239.19.2.206:5000
+#EXTINF:-1 group-title="Športni" tvg-id="1000416" tvg-name="1000416" tvg-logo="Sportklub_6.png",Sportklub 6
+udp://@239.19.2.218:5000
+#EXTINF:-1 group-title="Športni" tvg-id="1000044" tvg-name="1000044" tvg-logo="Eurosport.png",Eurosport
+udp://@239.11.2.87:5000
+#EXTINF:-1 group-title="Športni" tvg-id="1000044" tvg-name="1000044" tvg-logo="Eurosport_(NEM).png",Eurosport (NEM)
+udp://@239.11.2.89:5000
+#EXTINF:-1 group-title="Športni" tvg-id="1000072" tvg-name="1000072" tvg-logo="Eurosport_2_NE.png",Eurosport 2 NE
+udp://@239.11.2.88:5000
+#EXTINF:-1 group-title="Športni" tvg-id="37" tvg-name="37" tvg-logo="Extreme_Sports.png",Extreme Sports
+udp://@239.19.2.208:5000
+#EXTINF:-1 group-title="Športni" tvg-id="40" tvg-name="40" tvg-logo="Motors_TV.png",Motors TV
+udp://@239.12.2.184:5000
+#EXTINF:-1 group-title="Športni" tvg-id="60" tvg-name="60" tvg-logo="SPORT1.png",SPORT1
+udp://@239.11.2.85:5000
+#EXTINF:-1 group-title="Športni" tvg-id="fightsports" tvg-name="fightsports" tvg-logo="Fight_Sports.png",Fight Sports
+udp://@239.12.2.155:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="1000160" tvg-name="1000160" tvg-logo="24Kitchen_Adria.png",24Kitchen Adria
+udp://@239.11.2.71:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="1000161" tvg-name="1000161" tvg-logo="E!_Entertaintment.png",E! Entertaintment
+udp://@239.12.2.183:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="1000242" tvg-name="1000242" tvg-logo="Fashion_One.png",Fashion One
+udp://@239.19.2.209:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="38" tvg-name="38" tvg-logo="Fashion_TV.png",Fashion TV
+udp://@239.12.2.194:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="24" tvg-name="24" tvg-logo="Fine_Living_Net.png",Fine Living Net
+udp://@239.12.2.179:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="1000394" tvg-name="1000394" tvg-logo="Dr_Fit.png",Dr. Fit
+udp://@239.14.2.62:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="1000391" tvg-name="1000391" tvg-logo="Dr_Fit.png",Dr. Fit HD720
+udp://@239.14.14.62:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="1000395" tvg-name="1000395" tvg-logo="Woman.png",Woman
+udp://@239.14.2.61:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="1000392" tvg-name="1000392" tvg-logo="Woman.png",Woman HD720
+udp://@239.14.14.61:5000
+#EXTINF:-1 group-title="Dokumentarni" tvg-id="1000397" tvg-name="1000397" tvg-logo="Planet_Earth.png",Planet Earth
+udp://@239.14.2.63:5000
+#EXTINF:-1 group-title="Dokumentarni" tvg-id="1000393" tvg-name="1000393" tvg-logo="Planet_Earth.png",Planet Earth HD
+udp://@239.14.12.63:5000
+#EXTINF:-1 group-title="Dokumentarni" tvg-id="1000393" tvg-name="1000393" tvg-logo="Planet_Earth.png",Planet Earth HD720
+udp://@239.14.14.63:5000
+#EXTINF:-1 group-title="Nacionalni Slo" tvg-id="10" tvg-name="10" tvg-logo="SLO_3.png",SLO 3
+udp://@239.10.2.16:5000
+#EXTINF:-1 group-title="Nacionalni Slo" tvg-id="2000000030" tvg-name="2000000030" tvg-logo="TV_Koper.png",TV Koper Capodistria
+udp://@239.10.2.17:5000
+#EXTINF:-1 group-title="Nacionalni Slo" tvg-id="2000000053" tvg-name="2000000053" tvg-logo="TV_Maribor.png",TV Maribor
+udp://@239.10.2.18:5000
+#EXTINF:-1 group-title="Informativni" tvg-id="1000283" tvg-name="1000283" tvg-logo="TOP_TV.png",TOP TV
+udp://@239.10.2.20:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="12" tvg-name="12" tvg-logo="Net_TV.png",Net TV
+udp://@239.10.2.21:5000
+#EXTINF:-1 group-title="Informativni" tvg-id="nova24tv" tvg-name="nova24tv" tvg-logo="Nova_24_TV.png",Nova24TV
+udp://@239.10.2.246:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="14" tvg-name="14" tvg-logo="RTS_Maribor.png",RTS Maribor
+udp://@239.10.2.19:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="122" tvg-name="122" tvg-logo="TV_AS.png",TV AS
+udp://@239.10.2.24:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="2000000044" tvg-name="2000000044" tvg-logo="VTV_Velenje.png",VTV Velenje
+udp://@239.10.2.26:5000
+#EXTINF:-1 group-title="Lokalni Slo" tvg-id="1000061" tvg-name="1000061" tvg-logo="Arena_TV.png",Arena TV
+udp://@239.10.2.31:5000
+#EXTINF:-1 group-title="Lokalni Slo" tvg-id="1000001" tvg-name="1000001" tvg-logo="ATM_TV.png",ATM TV
+udp://@239.10.2.32:5000
+#EXTINF:-1 group-title="Lokalni Slo" tvg-id="1000265" tvg-name="1000265" tvg-logo="BK_TV.png",BK TV
+udp://@239.10.2.55:5000
+#EXTINF:-1 group-title="Lokalni Slo" tvg-id="1000034" tvg-name="1000034" tvg-logo="Gea_TV.png",Gea TV
+udp://@239.10.2.34:5000
+#EXTINF:-1 group-title="Lokalni Slo" tvg-id="1000282" tvg-name="1000282" tvg-logo="GO_TV.png",GO TV
+udp://@239.10.2.66:5000
+#EXTINF:-1 group-title="Lokalni Slo" tvg-id="1000244" tvg-name="1000244" tvg-logo="Hit_TV.png",Hit TV
+udp://@239.10.2.54:5000
+#EXTINF:-1 group-title="Lokalni Slo" tvg-id="123" tvg-name="123" tvg-logo="Kanal_10.png",Kanal 10 / Idea TV
+udp://@239.10.2.37:5000
+#EXTINF:-1 group-title="Lokalni Slo" tvg-id="1000101" tvg-name="1000101" tvg-logo="PETV.png",PETV
+udp://@239.10.2.52:5000
+#EXTINF:-1 group-title="Lokalni Slo" tvg-id="1000341" tvg-name="1000341" tvg-logo="Radio_Kaos.png",Radio Kaos
+udp://@239.10.2.40:5000
+#EXTINF:-1 group-title="Lokalni Slo" tvg-id="2000000001" tvg-name="2000000001" tvg-logo="R_Kanal+.png",R Kanal+
+udp://@239.10.2.38:5000
+#EXTINF:-1 group-title="Lokalni Slo" tvg-id="16" tvg-name="16" tvg-logo="SIP_TV.png",SIP TV
+udp://@239.10.2.39:5000
+#EXTINF:-1 group-title="Lokalni Slo" tvg-id="2000000004" tvg-name="2000000004" tvg-logo="Sponka_Gold.png",Sponka Gold TV
+udp://@239.10.2.65:5000
+#EXTINF:-1 group-title="Lokalni Slo" tvg-id="1000052" tvg-name="1000052" tvg-logo="S-TV_Skledar.png",S-TV Skledar
+udp://@239.10.2.42:5000
+#EXTINF:-1 group-title="Lokalni Slo" tvg-id="1000165" tvg-name="1000165" tvg-logo="Studio_12.png",Studio 12
+udp://@239.10.2.43:5000
+#EXTINF:-1 group-title="Lokalni Slo" tvg-id="1000345" tvg-name="1000345" tvg-logo="TIPK_TV.png",TIPK TV
+udp://@239.10.2.28:5000
+#EXTINF:-1 group-title="Lokalni Slo" tvg-id="TVM" tvg-name="TVM" tvg-logo="TVM.png",TVM
+udp://@239.10.2.48:5000
+#EXTINF:-1 group-title="Lokalni Slo" tvg-id="1000065" tvg-name="1000065" tvg-logo="TV_Celje.png",TV Celje
+udp://@239.10.2.45:5000
+#EXTINF:-1 group-title="Lokalni Slo" tvg-id="1000062" tvg-name="1000062" tvg-logo="Teve_Nakupi.png",Teve Nakupi
+udp://@239.10.2.44:5000
+#EXTINF:-1 group-title="Lokalni Slo" tvg-id="1000343" tvg-name="1000343" tvg-logo="TV_Galeja.png",TV Galeja
+udp://@239.10.2.58:5000
+#EXTINF:-1 group-title="Lokalni Slo" tvg-id="1000012" tvg-name="1000012" tvg-logo="TV_Oron.png",TV Oron
+udp://@239.10.2.49:5000
+#EXTINF:-1 group-title="Lokalni Slo" tvg-id="TVSG" tvg-name="TVSG" tvg-logo="TV_SG.png",TV SG
+udp://@239.10.2.53:5000
+#EXTINF:-1 group-title="Lokalni Slo" tvg-id="TURTV" tvg-name="TURTV" tvg-logo="Tur_TV.png",Tur TV
+udp://@239.10.2.51:5000
+#EXTINF:-1 group-title="Lokalni Slo" tvg-id="VITEL" tvg-name="VITEL" tvg-logo="ViTel.png",ViTel
+udp://@239.10.2.50:5000
+#EXTINF:-1 group-title="Lokalni Slo" tvg-id="1000381" tvg-name="1000381" tvg-logo="TV_Komenda.png",TV Komenda
+udp://@239.10.2.14:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="1000346" tvg-name="1000346" tvg-logo="Pink_2.png",Pink 2
+udp://@239.17.2.79:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="1000095" tvg-name="1000095" tvg-logo="Pink_Extra.png",Pink Extra
+udp://@239.17.2.249:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="1000348" tvg-name="1000348" tvg-logo="Pink_Family.png",Pink Family
+udp://@239.17.2.78:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="107" tvg-name="107" tvg-logo="Pink_Plus.png",Pink Plus
+udp://@239.17.2.246:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="1000351" tvg-name="1000351" tvg-logo="Pink_Reality.png",Pink Reality
+udp://@239.17.2.70:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="1000353" tvg-name="1000353" tvg-logo="Pink_Zabava.png",Pink Zabava
+udp://@239.17.2.72:5000
+#EXTINF:-1 group-title="Informativni" tvg-id="pinkworld" tvg-name="pinkworld" tvg-logo="Pink_World.png",Pink World
+udp://@239.17.2.71:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="pinkslo" tvg-name="pinkslo" tvg-logo="Pink_SI.png",Pink SI
+udp://@239.10.2.33:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="129" tvg-name="129" tvg-logo="BNTV.png",BN TV
+udp://@239.12.2.187:5000
+#EXTINF:-1 group-title="Nacionalni tuji" tvg-id="108" tvg-name="108" tvg-logo="RTS.png",RTS
+udp://@239.11.2.114:5000
+#EXTINF:-1 group-title="Nacionalni tuji" tvg-id="1000211" tvg-name="1000211" tvg-logo="RTS_1.png",RTS 1
+udp://@239.13.2.251:5000
+#EXTINF:-1 group-title="Nacionalni tuji" tvg-id="1000212" tvg-name="1000212" tvg-logo="RTS_2.png",RTS 2
+udp://@239.13.2.252:5000
+#EXTINF:-1 group-title="Lokalni tuji" tvg-id="1000185" tvg-name="1000185" tvg-logo="RTRS.png",RTRS
+udp://@239.13.2.222:5000
+#EXTINF:-1 group-title="Lokalni tuji" tvg-id="1000188" tvg-name="1000188" tvg-logo="Vikom_TV.png",Vikom TV
+udp://@239.13.2.225:5000
+#EXTINF:-1 group-title="Lokalni tuji" tvg-id="1000207" tvg-name="1000207" tvg-logo="B_92.png",B 92
+udp://@239.13.2.245:5000
+#EXTINF:-1 group-title="Lokalni tuji" tvg-id="1000208" tvg-name="1000208" tvg-logo="B_92_Info.png",B 92 Info
+udp://@239.13.2.246:5000
+#EXTINF:-1 group-title="Lokalni tuji" tvg-id="1000035" tvg-name="1000035" tvg-logo="TV_Duga_NS.png",TV Duga Novi Sad
+udp://@239.13.2.254:5000
+#EXTINF:-1 group-title="Lokalni tuji" tvg-id="1000078" tvg-name="1000078" tvg-logo="KCN1.png",K::CN 1 Kopernikus
+udp://@239.13.2.248:5000
+#EXTINF:-1 group-title="Glasbeni" tvg-id="1000103" tvg-name="1000103" tvg-logo="KCN2.png",K::CN 2 Music
+udp://@239.13.2.249:5000
+#EXTINF:-1 group-title="Lokalni tuji" tvg-id="2000000046" tvg-name="2000000046" tvg-logo="KCN3.png",K::CN 3 Svet+
+udp://@239.13.2.255:5000
+#EXTINF:-1 group-title="Lokalni tuji" tvg-id="2000000050" tvg-name="2000000050" tvg-logo="RTV_Atlas.png",RTV Atlas
+udp://@239.13.2.244:5000
+#EXTINF:-1 group-title="Lokalni tuji" tvg-id="1000209" tvg-name="1000209" tvg-logo="Happy_TV.png",Happy TV
+udp://@239.13.2.247:5000
+#EXTINF:-1 group-title="Lokalni tuji" tvg-id="1000210" tvg-name="1000210" tvg-logo="PRVA_Srbska_TV.png",PRVA Srbska TV
+udp://@239.13.2.203:5000
+#EXTINF:-1 group-title="Lokalni tuji" tvg-id="1000190" tvg-name="1000190" tvg-logo="Jabuka_(OTV).png",Jabuka (OTV)
+udp://@239.13.2.226:5000
+#EXTINF:-1 group-title="Lokalni tuji" tvg-id="1000193" tvg-name="1000193" tvg-logo="Mreza_TV.png",Mreža TV
+udp://@239.13.2.228:5000
+#EXTINF:-1 group-title="Lokalni tuji" tvg-id="1000215" tvg-name="1000215" tvg-logo="TV_Istra.png",TV Istra
+udp://@239.13.2.229:5000
+#EXTINF:-1 group-title="Lokalni tuji" tvg-id="1000194" tvg-name="1000194" tvg-logo="TV_Jadran.png",TV Jadran
+udp://@239.13.2.230:5000
+#EXTINF:-1 group-title="Lokalni tuji" tvg-id="151" tvg-name="151" tvg-logo="Z1_televizija.png",Z1 televizija
+udp://@239.13.2.231:5000
+#EXTINF:-1 group-title="Lokalni tuji" tvg-id="narodna" tvg-name="narodna" tvg-logo="Narodna_TV.png",Narodna TV
+udp://@239.13.2.227:5000
+#EXTINF:-1 group-title="Lokalni tuji" tvg-id="1000266" tvg-name="1000266" tvg-logo="Zdrava_Televizija.png",Zdrava TV
+udp://@239.13.2.232:5000
+#EXTINF:-1 group-title="Lokalni tuji" tvg-id="1000233" tvg-name="1000233" tvg-logo="Hema.png",Hema
+udp://@239.13.2.219:5000
+#EXTINF:-1 group-title="Informativni" tvg-id="1000421" tvg-name="1000421" tvg-logo="N1_Hrvaska.png",N1 Hrvaščina
+udp://@239.11.2.139:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="152" tvg-name="152" tvg-logo="OBN.png",OBN
+udp://@239.12.2.189:5000
+#EXTINF:-1 group-title="Lokalni tuji" tvg-id="1000235" tvg-name="1000235" tvg-logo="NTV_IC_Kakanj.png",NTV IC Kakanj
+udp://@239.13.2.220:5000
+#EXTINF:-1 group-title="Nacionalni tuji" tvg-id="BHT1" tvg-name="BHT1" tvg-logo="BHT_1.png",BHT 1
+udp://@239.13.2.215:5000
+#EXTINF:-1 group-title="Lokalni tuji" tvg-id="1000240" tvg-name="1000240" tvg-logo="Elta_TV.png",Elta TV
+udp://@239.13.2.216:5000
+#EXTINF:-1 group-title="Lokalni tuji" tvg-id="1000179" tvg-name="1000179" tvg-logo="Elta_2.png",Elta 2
+udp://@239.13.2.213:5000
+#EXTINF:-1 group-title="Lokalni tuji" tvg-id="1000183" tvg-name="1000183" tvg-logo="FTV.png",FTV
+udp://@239.13.2.217:5000
+#EXTINF:-1 group-title="Lokalni tuji" tvg-id="1000236" tvg-name="1000236" tvg-logo="Hayat_TV_BiH.png",Hayat TV BiH
+udp://@239.13.2.218:5000
+#EXTINF:-1 group-title="Nacionalni tuji" tvg-id="110" tvg-name="110" tvg-logo="Hayat_SAT.png",Hayat SAT
+udp://@239.12.2.186:5000
+#EXTINF:-1 group-title="Lokalni tuji" tvg-id="tv1" tvg-name="tv1" tvg-logo="TV_1.png",TV 1
+udp://@239.13.2.223:5000
+#EXTINF:-1 group-title="Lokalni tuji" tvg-id="1000187" tvg-name="1000187" tvg-logo="TV_Sarajevo.png",TV Sarajevo
+udp://@239.13.2.224:5000
+#EXTINF:-1 group-title="Lokalni tuji" tvg-id="valentino" tvg-name="valentino" tvg-logo="OTV_Valentino.png",OTV Valentino
+udp://@239.13.2.221:5000
+#EXTINF:-1 group-title="Nacionalni tuji" tvg-id="109" tvg-name="109" tvg-logo="RTCG.png",RT Crna gora
+udp://@239.11.2.99:5000
+#EXTINF:-1 group-title="Lokalni tuji" tvg-id="1000267" tvg-name="1000267" tvg-logo="Alfa_TVa.png",Alfa TV BiH
+udp://@239.13.2.212:5000
+#EXTINF:-1 group-title="Lokalni tuji" tvg-id="TV_Alfa" tvg-name="TV_Alfa" tvg-logo="Alfa_TVb.png",Alfa TV Makedonija
+udp://@239.13.2.233:5000
+#EXTINF:-1 group-title="Lokalni tuji" tvg-id="alsatm" tvg-name="alsatm" tvg-logo="Alsat_Macedonia.png",Alsat Macedonia
+udp://@239.13.2.234:5000
+#EXTINF:-1 group-title="Lokalni tuji" tvg-id="Naša_TV" tvg-name="Naša_TV" tvg-logo="Nasa_TV.png",Naša TV
+udp://@239.13.2.240:5000
+#EXTINF:-1 group-title="Lokalni tuji" tvg-id="sitel3" tvg-name="sitel3" tvg-logo="Sitel_3.png",Sitel 3
+udp://@239.13.2.241:5000
+#EXTINF:-1 group-title="Lokalni tuji" tvg-id="telma" tvg-name="telma" tvg-logo="Telma_TV.png",Telma TV
+udp://@239.13.2.242:5000
+#EXTINF:-1 group-title="Lokalni tuji" tvg-id="sitel" tvg-name="sitel" tvg-logo="TV_Sitel.png",TV Sitel
+udp://@239.13.2.243:5000
+#EXTINF:-1 group-title="Nacionalni tuji" tvg-id="mktv1" tvg-name="mktv1" tvg-logo="MRT_1.png",MRT 1
+udp://@239.13.2.237:5000
+#EXTINF:-1 group-title="Nacionalni tuji" tvg-id="mktv2" tvg-name="mktv2" tvg-logo="MRT_2.png",MRT 2
+udp://@239.13.2.238:5000
+#EXTINF:-1 group-title="Nacionalni tuji" tvg-id="mktv3" tvg-name="mktv3" tvg-logo="MRT.png",MRT Sobraniški Kanal
+udp://@239.13.2.239:5000
+#EXTINF:-1 group-title="Lokalni tuji" tvg-id="kanal5" tvg-name="kanal5" tvg-logo="Kanal_5.png",Kanal 5
+udp://@239.13.2.235:5000
+#EXTINF:-1 group-title="Lokalni tuji" tvg-id="Kanal5_plus" tvg-name="Kanal5_plus" tvg-logo="Kanal_5_Plus.png",Kanal 5 Plus
+udp://@239.13.2.236:5000
+#EXTINF:-1 group-title="Nacionalni tuji" tvg-id="2000000015" tvg-name="2000000015" tvg-logo="RTK_Kosova.png",RTK
+udp://@239.11.2.111:5000
+#EXTINF:-1 group-title="Nacionalni tuji" tvg-id="2000000041" tvg-name="2000000041" tvg-logo="RTV_Shqiptar.png",RTV Shqiptar
+udp://@239.13.2.204:5000
+#EXTINF:-1 group-title="Lokalni tuji" tvg-id="1000174" tvg-name="1000174" tvg-logo="Tring_7.png",Tring 7
+udp://@239.13.2.206:5000
+#EXTINF:-1 group-title="Lokalni tuji" tvg-id="1000216" tvg-name="1000216" tvg-logo="Tring_Shqip.png",Tring Shqip
+udp://@239.13.2.208:5000
+#EXTINF:-1 group-title="Lokalni tuji" tvg-id="1000217" tvg-name="1000217" tvg-logo="Tring_Tring.png",Tring Tring
+udp://@239.13.2.209:5000
+#EXTINF:-1 group-title="Lokalni tuji" tvg-id="1000079" tvg-name="1000079" tvg-logo="Tring_Vizion+.png",Tring Vizion+
+udp://@239.13.2.210:5000
+#EXTINF:-1 group-title="Informativni" tvg-id="2000000024" tvg-name="2000000024" tvg-logo="Al_Jazeera_English.png",Al Jazeera English
+udp://@239.12.2.171:5000
+#EXTINF:-1 group-title="Informativni" tvg-id="2000000005" tvg-name="2000000005" tvg-logo="CNBC.png",CNBC
+udp://@239.12.2.174:5000
+#EXTINF:-1 group-title="Informativni" tvg-id="25" tvg-name="25" tvg-logo="CNN_International.png",CNN International
+udp://@239.11.2.79:5000
+#EXTINF:-1 group-title="Informativni" tvg-id="2000000002" tvg-name="2000000002" tvg-logo="Sky_News.png",Sky News
+udp://@239.11.2.117:5000
+#EXTINF:-1 group-title="Informativni" tvg-id="bbcworld" tvg-name="bbcworld" tvg-logo="BBC_World.png",BBC World News
+udp://@239.11.2.77:5000
+#EXTINF:-1 group-title="Informativni" tvg-id="125" tvg-name="125" tvg-logo="CCTV_News.png",CCTV News
+udp://@239.12.2.178:5000
+#EXTINF:-1 group-title="Informativni" tvg-id="1000159" tvg-name="1000159" tvg-logo="France_24_English.png",France 24 English
+udp://@239.11.2.93:5000
+#EXTINF:-1 group-title="Informativni" tvg-id="113" tvg-name="113" tvg-logo="N_24.png",N 24
+udp://@239.11.2.103:5000
+#EXTINF:-1 group-title="Informativni" tvg-id="1000102" tvg-name="1000102" tvg-logo="NHK_World.png",NHK World
+udp://@239.12.2.177:5000
+#EXTINF:-1 group-title="Informativni" tvg-id="2000000028" tvg-name="2000000028" tvg-logo="RT.png",RT
+udp://@239.11.2.115:5000
+#EXTINF:-1 group-title="Informativni" tvg-id="2000000045" tvg-name="2000000045" tvg-logo="Europe_by_Sat..png",EBS (Europe by Satellite)
+udp://@239.12.2.175:5000
+#EXTINF:-1 group-title="Informativni" tvg-id="23" tvg-name="23" tvg-logo="Bloomberg_EU.png",Bloomberg EU
+udp://@239.12.2.172:5000
+#EXTINF:-1 group-title="Informativni" tvg-id="1000159" tvg-name="1000159" tvg-logo="France_24_French.png",France 24 French
+udp://@239.11.2.94:5000
+#EXTINF:-1 group-title="Informativni" tvg-id="tv5" tvg-name="tv5" tvg-logo="TV_5_Europe.png",TV5MONDE
+udp://@239.14.2.8:5000
+#EXTINF:-1 group-title="Otroški" tvg-id="1000129" tvg-name="1000129" tvg-logo="POP_Oto.png",POP Oto
+udp://@239.14.2.47:5000
+#EXTINF:-1 group-title="Otroški" tvg-id="1000262" tvg-name="1000262" tvg-logo="Minimax.png",Minimax
+udp://@239.12.2.150:5000
+#EXTINF:-1 group-title="Otroški" tvg-id="1000302" tvg-name="1000302" tvg-logo="Nickelodeon.png",Nickelodeon
+udp://@239.19.2.204:5000
+#EXTINF:-1 group-title="Otroški" tvg-id="20000000039" tvg-name="20000000039" tvg-logo="Cartoon_Network.png",Cartoon Network
+udp://@239.11.2.78:5000
+#EXTINF:-1 group-title="Otroški" tvg-id="Nick_Jr." tvg-name="Nick_Jr." tvg-logo="NickJr.png",Nick Jr.
+udp://@239.19.2.241:5000
+#EXTINF:-1 group-title="Otroški" tvg-id="1000074" tvg-name="1000074" tvg-logo="Disney_Channel.png",Disney Channel
+udp://@239.11.2.82:5000
+#EXTINF:-1 group-title="Otroški" tvg-id="39" tvg-name="39" tvg-logo="Disney_XD.png",Disney XD
+udp://@239.11.2.83:5000
+#EXTINF:-1 group-title="Otroški" tvg-id="1000155" tvg-name="1000155" tvg-logo="Disney_Junior.png",Disney Junior
+udp://@239.12.2.149:5000
+#EXTINF:-1 group-title="Otroški" tvg-id="1000355" tvg-name="1000355" tvg-logo="RTL_Kockica.png",RTL Kockica
+udp://@239.13.2.253:5000
+#EXTINF:-1 group-title="Otroški" tvg-id="pinkkids" tvg-name="pinkkids" tvg-logo="Pink_Kids.png",Pink Kids
+udp://@239.17.2.80:5000
+#EXTINF:-1 group-title="Otroški" tvg-id="20000000032" tvg-name="20000000032" tvg-logo="Boomerang.png",Boomerang
+udp://@239.11.2.74:5000
+#EXTINF:-1 group-title="Otroški" tvg-id="2000000010" tvg-name="2000000010" tvg-logo="Smile_of_a_Child.png",Smile of a Child
+udp://@239.12.2.147:5000
+#EXTINF:-1 group-title="Otroški" tvg-id="KiKa" tvg-name="KiKa" tvg-logo="KiKA.png",KiKA
+udp://@239.1.2.78:5000
+#EXTINF:-1 group-title="Otroški" tvg-id="82" tvg-name="82" tvg-logo="Baby_TV.png",Baby TV
+udp://@239.11.2.76:5000
+#EXTINF:-1 group-title="Glasbeni" tvg-id="91" tvg-name="91" tvg-logo="Mezzo.png",Mezzo
+udp://@239.12.2.166:5000
+#EXTINF:-1 group-title="Glasbeni" tvg-id="50" tvg-name="50" tvg-logo="VH1.png",VH1
+udp://@239.12.2.168:5000
+#EXTINF:-1 group-title="Glasbeni" tvg-id="51" tvg-name="51" tvg-logo="VH1_Classic.png",VH1 Classic
+udp://@239.12.2.170:5000
+#EXTINF:-1 group-title="Glasbeni" tvg-id="comedycentral" tvg-name="comedycentral" tvg-logo="VIVA.png",Comedy Central (nem)
+udp://@239.1.2.132:5000
+#EXTINF:-1 group-title="Glasbeni" tvg-id="127" tvg-name="127" tvg-logo="MTV_Hits.png",MTV Hits
+udp://@239.12.2.158:5000
+#EXTINF:-1 group-title="Glasbeni" tvg-id="126" tvg-name="126" tvg-logo="MTV_Dance.png",MTV Dance
+udp://@239.12.2.157:5000
+#EXTINF:-1 group-title="Glasbeni" tvg-id="136" tvg-name="136" tvg-logo="MTV_Rocks.png",MTV Rocks
+udp://@239.12.2.159:5000
+#EXTINF:-1 group-title="Glasbeni" tvg-id="41" tvg-name="41" tvg-logo="MTV_Adria.png",MTV Adria
+udp://@239.11.2.102:5000
+#EXTINF:-1 group-title="Glasbeni" tvg-id="1000285" tvg-name="1000285" tvg-logo="Jugoton_TV.png",Jugoton TV
+udp://@239.13.2.201:5000
+#EXTINF:-1 group-title="Glasbeni" tvg-id="1000156" tvg-name="1000156" tvg-logo="CMC.png",CMC
+udp://@239.12.2.154:5000
+#EXTINF:-1 group-title="Glasbeni" tvg-id="2000000027" tvg-name="2000000027" tvg-logo="Balkanika_TV.png",Balkanika TV
+udp://@239.12.2.153:5000
+#EXTINF:-1 group-title="Glasbeni" tvg-id="47" tvg-name="47" tvg-logo="Trace_TV.png",Trace TV
+udp://@239.12.2.167:5000
+#EXTINF:-1 group-title="Glasbeni" tvg-id="1000067" tvg-name="1000067" tvg-logo="BN_Music.png",BN Music
+udp://@239.12.2.151:5000
+#EXTINF:-1 group-title="Glasbeni" tvg-id="1000097" tvg-name="1000097" tvg-logo="Pink_Music.png",Pink Music
+udp://@239.11.2.107:5000
+#EXTINF:-1 group-title="Glasbeni" tvg-id="pinkfolk" tvg-name="pinkfolk" tvg-logo="Pink_Folk.png",Pink Folk
+udp://@239.17.2.247:5000
+#EXTINF:-1 group-title="Glasbeni" tvg-id="1000284" tvg-name="1000284" tvg-logo="Hayat_Folk.png",Hayat Folk
+udp://@239.13.2.200:5000
+#EXTINF:-1 group-title="Lokalni tuji" tvg-id="1000080" tvg-name="1000080" tvg-logo="Folk_Plus.png",Folk Plus
+udp://@239.13.2.202:5000
+#EXTINF:-1 group-title="Glasbeni" tvg-id="2000000026" tvg-name="2000000026" tvg-logo="DM_SAT_TV.png",DM SAT TV
+udp://@239.11.2.84:5000
+#EXTINF:-1 group-title="Glasbeni" tvg-id="13" tvg-name="13" tvg-logo="TV_Veseljak.png",TV Veseljak
+udp://@239.10.2.46:5000
+#EXTINF:-1 group-title="Glasbeni" tvg-id="124" tvg-name="124" tvg-logo="TV_Petelin.png",TV Petelin
+udp://@239.10.2.29:5000
+#EXTINF:-1 group-title="Glasbeni" tvg-id="2000000056" tvg-name="2000000056" tvg-logo="TV_Golica.png",Golica TV
+udp://@239.10.2.30:5000
+#EXTINF:-1 group-title="Glasbeni" tvg-id="17" tvg-name="17" tvg-logo="TV_Carli.png",TV Čarli
+udp://@239.10.2.27:5000
+#EXTINF:-1 group-title="Nacionalni Slo" tvg-id="1000259" tvg-name="1000259" tvg-logo="SLO_1_HD.png",SLO 1 HD
+udp://@239.10.2.56:5000
+#EXTINF:-1 group-title="Nacionalni Slo" tvg-id="1000259" tvg-name="1000259" tvg-logo="SLO_1_HD.png",SLO 1 HD720
+udp://@239.10.14.56:5000
+#EXTINF:-1 group-title="Nacionalni Slo" tvg-id="1000260" tvg-name="1000260" tvg-logo="SLO_2_HD.png",SLO 2 HD
+udp://@239.10.2.57:5000
+#EXTINF:-1 group-title="Nacionalni Slo" tvg-id="1000260" tvg-name="1000260" tvg-logo="SLO_2_HD.png",SLO 2 HD720
+udp://@239.10.14.57:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="1000278" tvg-name="1000278" tvg-logo="Planet_TV_HD.png",Planet TV HD
+udp://@239.10.2.69:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="1000278" tvg-name="1000278" tvg-logo="Planet_TV_HD.png",Planet TV HD720
+udp://@239.10.14.69:5000
+#EXTINF:-1 group-title="Kulturni" tvg-id="1000026" tvg-name="1000026" tvg-logo="Arte_HD.png",Arte HD
+udp://@239.11.2.135:5000
+#EXTINF:-1 group-title="Kulturni" tvg-id="1000026" tvg-name="1000026" tvg-logo="Arte_HD.png",Arte HD720
+udp://@239.11.14.135:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="1000307" tvg-name="1000307" tvg-logo="24Kitchen_Adria_HD.png",24Kitchen Adria HD
+udp://@239.19.2.221:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="1000307" tvg-name="1000307" tvg-logo="24Kitchen_Adria_HD.png",24Kitchen Adria HD720
+udp://@239.19.14.221:5000
+#EXTINF:-1 group-title="Dokumentarni" tvg-id="2000000054" tvg-name="2000000054" tvg-logo="Discovery_Channel_HD.png",Discovery Showcase HD
+udp://@239.19.2.229:5000
+#EXTINF:-1 group-title="Dokumentarni" tvg-id="2000000054" tvg-name="2000000054" tvg-logo="Discovery_Channel_HD.png",Discovery Showcase HD720
+udp://@239.19.14.229:5000
+#EXTINF:-1 group-title="Dokumentarni" tvg-id="1000291" tvg-name="1000291" tvg-logo="Animal_Planet_HD.png",Animal Planet HD
+udp://@239.19.2.231:5000
+#EXTINF:-1 group-title="Dokumentarni" tvg-id="1000291" tvg-name="1000291" tvg-logo="Animal_Planet_HD.png",Animal Planet HD720
+udp://@239.19.14.231:5000
+#EXTINF:-1 group-title="Dokumentarni" tvg-id="1000049" tvg-name="1000049" tvg-logo="National_Geographic_HD.png",National Geographic HD
+udp://@239.19.2.213:5000
+#EXTINF:-1 group-title="Dokumentarni" tvg-id="1000049" tvg-name="1000049" tvg-logo="National_Geographic_HD.png",National Geographic HD720
+udp://@239.19.14.213:5000
+#EXTINF:-1 group-title="Dokumentarni" tvg-id="1000167" tvg-name="1000167" tvg-logo="National_Geographic_Wild_HD.png",National Geographic Wild HD
+udp://@239.19.2.214:5000
+#EXTINF:-1 group-title="Dokumentarni" tvg-id="1000167" tvg-name="1000167" tvg-logo="National_Geographic_Wild_HD.png",National Geographic Wild HD720
+udp://@239.19.14.214:5000
+#EXTINF:-1 group-title="Dokumentarni" tvg-id="1000048" tvg-name="1000048" tvg-logo="History_Channel_HD.png",History Channel HD
+udp://@239.19.2.215:5000
+#EXTINF:-1 group-title="Dokumentarni" tvg-id="1000048" tvg-name="1000048" tvg-logo="History_Channel_HD.png",History Channel HD720
+udp://@239.19.14.215:5000
+#EXTINF:-1 group-title="Filmski" tvg-id="1000308" tvg-name="1000308" tvg-logo="FOX_HD.png",FOX HD
+udp://@239.19.2.222:5000
+#EXTINF:-1 group-title="Filmski" tvg-id="1000308" tvg-name="1000308" tvg-logo="FOX_HD.png",FOX HD720
+udp://@239.19.14.222:5000
+#EXTINF:-1 group-title="Filmski" tvg-id="1000311" tvg-name="1000311" tvg-logo="FOX_Movies_HD.png",FOX Movies HD
+udp://@239.19.2.225:5000
+#EXTINF:-1 group-title="Filmski" tvg-id="1000311" tvg-name="1000311" tvg-logo="FOX_Movies_HD.png",FOX Movies HD720
+udp://@239.19.14.225:5000
+#EXTINF:-1 group-title="Filmski" tvg-id="1000310" tvg-name="1000310" tvg-logo="FOX_Crime_HD.png",FOX Crime HD
+udp://@239.19.2.224:5000
+#EXTINF:-1 group-title="Filmski" tvg-id="1000310" tvg-name="1000310" tvg-logo="FOX_Crime_HD.png",FOX Crime HD720
+udp://@239.19.14.224:5000
+#EXTINF:-1 group-title="Filmski" tvg-id="1000309" tvg-name="1000309" tvg-logo="FOX_Life_HD.png",FOX Life HD
+udp://@239.19.2.223:5000
+#EXTINF:-1 group-title="Dokumentarni" tvg-id="1000086" tvg-name="1000086" tvg-logo="Servus_TV_HD.png",Servus TV HD
+udp://@239.11.2.137:5000
+#EXTINF:-1 group-title="Dokumentarni" tvg-id="1000086" tvg-name="1000086" tvg-logo="Servus_TV_HD.png",Servus TV HD720
+udp://@239.11.14.137:5000
+#EXTINF:-1 group-title="Filmski" tvg-id="1000309" tvg-name="1000309" tvg-logo="FOX_Life_HD.png",FOX Life HD720
+udp://@239.19.14.223:5000
+#EXTINF:-1 group-title="Dokumentarni" tvg-id="1000168" tvg-name="1000168" tvg-logo="Travel_Channel_HD.png",Travel Channel HD
+udp://@239.19.2.216:5000
+#EXTINF:-1 group-title="Dokumentarni" tvg-id="1000168" tvg-name="1000168" tvg-logo="Travel_Channel_HD.png",Travel Channel HD720
+udp://@239.19.14.216:5000
+#EXTINF:-1 group-title="Športni" tvg-id="1000338" tvg-name="1000338" tvg-logo="Sport_TV_HD.png",Šport TV HD
+udp://@239.19.2.227:5000
+#EXTINF:-1 group-title="Športni" tvg-id="1000338" tvg-name="1000338" tvg-logo="Sport_TV_HD.png",Šport TV HD720
+udp://@239.19.14.227:5000
+#EXTINF:-1 group-title="Športni" tvg-id="1000339" tvg-name="1000339" tvg-logo="Sport_TV_2_HD.png",Šport TV 2 HD
+udp://@239.19.2.228:5000
+#EXTINF:-1 group-title="Športni" tvg-id="1000339" tvg-name="1000339" tvg-logo="Sport_TV_2_HD.png",Šport TV 2 HD720
+udp://@239.19.14.228:5000
+#EXTINF:-1 group-title="Športni" tvg-id="1000025" tvg-name="1000025" tvg-logo="Eurosport_HD.png",Eurosport HD
+udp://@239.19.2.219:5000
+#EXTINF:-1 group-title="Športni" tvg-id="1000423" tvg-name="1000423" tvg-logo="Sportklub_1_HD.png",Sportklub 1 HD
+udp://@239.19.12.238:5000
+#EXTINF:-1 group-title="Športni" tvg-id="1000423" tvg-name="1000423" tvg-logo="Sportklub_1_HD.png",Sportklub 1 HD720
+udp://@239.19.14.238:5000
+#EXTINF:-1 group-title="Športni" tvg-id="1000025" tvg-name="1000025" tvg-logo="Eurosport_HD.png",Eurosport HD720
+udp://@239.19.14.219:5000
+#EXTINF:-1 group-title="Športni" tvg-id="1000166" tvg-name="1000166" tvg-logo="Outdoor_Channel_HD.png",Outdoor Channel HD
+udp://@239.19.2.210:5000
+#EXTINF:-1 group-title="Športni" tvg-id="1000424" tvg-name="1000424" tvg-logo="Sportklub_2_HD.png",Sportklub 2 HD
+udp://@239.19.12.239:5000
+#EXTINF:-1 group-title="Športni" tvg-id="1000424" tvg-name="1000424" tvg-logo="Sportklub_2_HD.png",Sportklub 2 HD720
+udp://@239.19.14.239:5000
+#EXTINF:-1 group-title="Športni" tvg-id="1000166" tvg-name="1000166" tvg-logo="Outdoor_Channel_HD.png",Outdoor Channel HD720
+udp://@239.19.14.210:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="1000242" tvg-name="1000242" tvg-logo="Fashion_One_HD.png",Fashion One HD
+udp://@239.19.2.226:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="1000056" tvg-name="1000056" tvg-logo="Fashion_TV_HD.png",Fashion TV HD
+udp://@239.19.2.220:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="1000056" tvg-name="1000056" tvg-logo="Fashion_TV_HD.png",Fashion TV HD720
+udp://@239.19.14.220:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="1000242" tvg-name="1000242" tvg-logo="Fashion_One_HD.png",Fashion One HD720
+udp://@239.19.14.226:5000
+#EXTINF:-1 group-title="Športni" tvg-id="1000425" tvg-name="1000425" tvg-logo="Sportklub_3_HD.png",Sportklub 3 HD
+udp://@239.19.12.240:5000
+#EXTINF:-1 group-title="Športni" tvg-id="1000425" tvg-name="1000425" tvg-logo="Sportklub_3_HD.png",Sportklub 3 HD720
+udp://@239.19.14.240:5000
+#EXTINF:-1 group-title="Športni" tvg-id="tracesport" tvg-name="tracesport" tvg-logo="Trace_Sports_HD.png",Trace Sports HD
+udp://@239.19.2.217:5000
+#EXTINF:-1 group-title="Športni" tvg-id="tracesport" tvg-name="tracesport" tvg-logo="Trace_Sports_HD.png",Trace Sports HD720
+udp://@239.19.14.217:5000
+#EXTINF:-1 group-title="Otroški" tvg-id="1000301" tvg-name="1000301" tvg-logo="Nickelodeon_HD.png",Nickelodeon HD
+udp://@239.19.2.211:5000
+#EXTINF:-1 group-title="Otroški" tvg-id="1000301" tvg-name="1000301" tvg-logo="Nickelodeon_HD.png",Nickelodeon HD720
+udp://@239.19.14.211:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="2000000022" tvg-name="2000000022" tvg-logo="Luxe.TV_HD.png",Luxe.TV HD
+udp://@239.19.2.230:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="2000000022" tvg-name="2000000022" tvg-logo="Luxe.TV_HD.png",Luxe.TV HD720
+udp://@239.19.14.230:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="MELODYZEN" tvg-name="MELODYZEN" tvg-logo="MyZen.tv_HD.png",MyZen.tv HD
+udp://@239.19.2.212:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="MELODYZEN" tvg-name="MELODYZEN" tvg-logo="MyZen.tv_HD.png",MyZen.tv HD720
+udp://@239.19.14.212:5000
+#EXTINF:-1 group-title="Nacionalni tuji" tvg-id="1000064" tvg-name="1000064" tvg-logo="ZDF_HD.png",ZDF HD
+udp://@239.11.2.134:5000
+#EXTINF:-1 group-title="Nacionalni tuji" tvg-id="1000064" tvg-name="1000064" tvg-logo="ZDF_HD.png",ZDF HD720
+udp://@239.11.14.134:5000
+#EXTINF:-1 group-title="Nacionalni tuji" tvg-id="1000050" tvg-name="1000050" tvg-logo="Magyar_Televizio_2_HD.png",Magyar Televizio 2 HD
+udp://@239.11.2.133:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="1000059" tvg-name="1000059" tvg-logo="Das_Erste_(ARD)_HD.png",Das Erste (ARD) HD
+udp://@239.11.2.136:5000
+#EXTINF:-1 group-title="Nacionalni tuji" tvg-id="1000050" tvg-name="1000050" tvg-logo="Magyar_Televizio_2_HD.png",Magyar Televizio 2 HD720
+udp://@239.11.14.133:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="1000057" tvg-name="1000057" tvg-logo="Anixe_HD.png",Anixe HD
+udp://@239.11.2.131:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="1000059" tvg-name="1000059" tvg-logo="Das_Erste_(ARD)_HD.png",Das Erste (ARD) HD720
+udp://@239.11.14.136:5000
+#EXTINF:-1 group-title="Informativni" tvg-id="1000283" tvg-name="1000283" tvg-logo="TOP_TV_HD.png",TOP TV HD
+udp://@239.10.2.59:5000
+#EXTINF:-1 group-title="Informativni" tvg-id="1000283" tvg-name="1000283" tvg-logo="TOP_TV_HD.png",TOP TV HD720
+udp://@239.10.14.59:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="1000057" tvg-name="1000057" tvg-logo="Anixe_HD.png",Anixe HD720
+udp://@239.11.14.131:5000
+#EXTINF:-1 group-title="Lokalni Slo" tvg-logo="MT_TV.png",MT TV
+udp://@239.10.2.70:5000
+#EXTINF:-1 group-title="Športni" tvg-id="fightsportshd" tvg-name="fightsportshd" tvg-logo="Fight_Sports_HD.png",Fight Sports HD
+udp://@239.19.2.232:5000
+#EXTINF:-1 group-title="Športni" tvg-id="fightsportshd" tvg-name="fightsportshd" tvg-logo="Fight_Sports_HD.png",Fight Sports HD720
+udp://@239.19.14.232:5000
+#EXTINF:-1 group-title="Športni" tvg-id="1000384" tvg-name="1000384" tvg-logo="Sport_TV_3_HD.png",Šport TV 3 HD
+udp://@239.19.2.207:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="1000371" tvg-name="1000371" tvg-logo="POP_TV_HD.png",POP TV HD
+udp://@239.19.2.233:5000
+#EXTINF:-1 group-title="Športni" tvg-id="1000384" tvg-name="1000384" tvg-logo="Sport_TV_3_HD.png",Šport TV 3 HD720
+udp://@239.19.14.207:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="1000370" tvg-name="1000370" tvg-logo="Kanal_A_HD.png",Kanal A HD
+udp://@239.19.2.234:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="1000370" tvg-name="1000370" tvg-logo="Kanal_A_HD.png",Kanal A HD720
+udp://@239.19.14.234:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="1000371" tvg-name="1000371" tvg-logo="POP_TV_HD.png",POP TV HD720
+udp://@239.19.14.233:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="1000368" tvg-name="1000368" tvg-logo="POP_Brio_HD.png",POP Brio HD
+udp://@239.19.2.235:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="1000368" tvg-name="1000368" tvg-logo="POP_Brio_HD.png",POP Brio HD720
+udp://@239.19.14.235:5000
+#EXTINF:-1 group-title="Filmski" tvg-id="1000366" tvg-name="1000366" tvg-logo="POP_Kino_HD.png",POP Kino HD
+udp://@239.19.2.236:5000
+#EXTINF:-1 group-title="Filmski" tvg-id="1000366" tvg-name="1000366" tvg-logo="POP_Kino_HD.png",POP Kino HD720
+udp://@239.19.14.236:5000
+#EXTINF:-1 group-title="Otroški" tvg-id="1000365" tvg-name="1000365" tvg-logo="POP_Oto_HD.png",POP Oto HD
+udp://@239.19.2.237:5000
+#EXTINF:-1 group-title="Otroški" tvg-id="1000365" tvg-name="1000365" tvg-logo="POP_Oto_HD.png",POP Oto HD720
+udp://@239.19.14.237:5000
+#EXTINF:-1 group-title="Promocijski" tvg-logo="Astra_3D_demo_HD.png",Astra 3D demo HD
+udp://@239.14.2.11:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="1000391" tvg-name="1000391" tvg-logo="Dr_Fit.png",Dr. Fit HD
+udp://@239.14.12.62:5000
+#EXTINF:-1 group-title="Promocijski" tvg-logo="Astra_3D_demo_HD.png",Astra 3D demo HD720
+udp://@239.14.14.11:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="1000392" tvg-name="1000392" tvg-logo="Woman.png",Woman HD
+udp://@239.14.12.61:5000
+#EXTINF:-1 group-title="Filmski" tvg-id="1000429" tvg-name="1000429" tvg-logo="CineStar_TV_Premiere_1_HD.png",CineStar TV Premiere 1 HD
+udp://@239.19.12.245:5000
+#EXTINF:-1 group-title="Filmski" tvg-id="1000429" tvg-name="1000429" tvg-logo="CineStar_TV_Premiere_1_HD.png",CineStar TV Premiere 1 HD720
+udp://@239.19.14.245:5000
+#EXTINF:-1 group-title="Filmski" tvg-id="1000430" tvg-name="1000430" tvg-logo="CineStar_TV_Premiere_2_HD.png",CineStar TV Premiere 2 HD
+udp://@239.19.12.246:5000
+#EXTINF:-1 group-title="Filmski" tvg-id="1000430" tvg-name="1000430" tvg-logo="CineStar_TV_Premiere_2_HD.png",CineStar TV Premiere 2 HD720
+udp://@239.19.14.246:5000
+#EXTINF:-1 group-title="Lokalni Slo" tvg-id="1000407" tvg-name="1000407" tvg-logo="Sponka_Gold.png",Sponka Gold TV HD
+udp://@239.10.12.64:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="1000405" tvg-name="1000405" tvg-logo="TV_8.png",TV 8 HD
+udp://@239.10.2.35:5000
+#EXTINF:-1 group-title="Lokalni Slo" tvg-id="1000407" tvg-name="1000407" tvg-logo="Sponka_Gold.png",Sponka Gold TV HD720
+udp://@239.10.14.64:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="1000405" tvg-name="1000405" tvg-logo="TV_8.png",TV 8 HD720
+udp://@239.10.14.35:5000
+#EXTINF:-1 group-title="Lokalni Slo" tvg-id="1000282" tvg-name="1000282" tvg-logo="GO_TV.png",GO TV HD
+udp://@239.10.2.67:5000
+#EXTINF:-1 group-title="Lokalni Slo" tvg-id="1000282" tvg-name="1000282" tvg-logo="GO_TV.png",GO TV HD720
+udp://@239.10.14.67:5000
+#EXTINF:-1 group-title="Duhovni" tvg-id="1000041" tvg-name="1000041" tvg-logo="TV_Exodus.png",TV Exodus HD
+udp://@239.10.12.41:5000
+#EXTINF:-1 group-title="Duhovni" tvg-id="1000041" tvg-name="1000041" tvg-logo="TV_Exodus.png",TV Exodus HD720
+udp://@239.10.14.41:5000
+#EXTINF:-1 group-title="Informativni" tvg-id="1000422" tvg-name="1000422" tvg-logo="N1_BiH.png",N1 BiH
+udp://@239.11.2.140:5000
+#EXTINF:-1 group-title="Glasbeni" tvg-id="1000419" tvg-name="1000419" tvg-logo="Grand_TV.png",Grand TV
+udp://@239.11.1.123:5000
+#EXTINF:-1 group-title="Informativni" tvg-id="1000420" tvg-name="1000420" tvg-logo="N1_Srbija.png",N1 Srbija
+udp://@239.11.2.138:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="72" tvg-name="72" tvg-logo="SAT1.png",SAT.1
+udp://@239.11.2.116:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="55" tvg-name="55" tvg-logo="3SAT.png",3sat
+udp://@239.11.2.72:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="59" tvg-name="59" tvg-logo="Das_Erste_(ARD).png",Das Erste (ARD)
+udp://@239.11.2.75:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="61" tvg-name="61" tvg-logo="Kabel_1.png",Kabel 1
+udp://@239.11.2.97:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="69" tvg-name="69" tvg-logo="Pro_7.png",Pro 7
+udp://@239.11.2.108:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="70" tvg-name="70" tvg-logo="RTL.png",RTL
+udp://@239.11.2.112:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="71" tvg-name="71" tvg-logo="RTL2.png",RTL 2
+udp://@239.11.2.113:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="73" tvg-name="73" tvg-logo="Super_RTL.png",Super RTL
+udp://@239.11.2.119:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="78" tvg-name="78" tvg-logo="VOX.png",VOX
+udp://@239.11.2.127:5000
+#EXTINF:-1 group-title="Nacionalni tuji" tvg-id="66" tvg-name="66" tvg-logo="ORF1.png",ORF1
+udp://@239.11.2.105:5000
+#EXTINF:-1 group-title="Nacionalni tuji" tvg-id="67" tvg-name="67" tvg-logo="ORF2.png",ORF2
+udp://@239.11.2.106:5000
+#EXTINF:-1 group-title="Nacionalni tuji" tvg-id="80" tvg-name="80" tvg-logo="ZDF.png",ZDF
+udp://@239.11.2.128:5000
+#EXTINF:-1 group-title="Nacionalni tuji" tvg-logo="Tele_5.png",Tele 5
+udp://@239.1.2.140:5000
+#EXTINF:-1 group-title="Lokalni tuji" tvg-id="ITALIA1" tvg-name="ITALIA1" tvg-logo="Italia_1.png",Italia 1
+udp://@239.14.2.4:5000
+#EXTINF:-1 group-title="Lokalni tuji" tvg-id="CANALE5" tvg-name="CANALE5" tvg-logo="Canale_5.png",Canale 5
+udp://@239.14.2.5:5000
+#EXTINF:-1 group-title="Lokalni tuji" tvg-id="RETE4" tvg-name="RETE4" tvg-logo="Rete_4.png",Rete 4
+udp://@239.14.2.6:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="1000077" tvg-name="1000077" tvg-logo="Mediaset_Italia.png",Mediaset Italia
+udp://@239.12.2.181:5000
+#EXTINF:-1 group-title="Nacionalni tuji" tvg-id="101" tvg-name="101" tvg-logo="RAI_1.png",RAI 1
+udp://@239.11.2.109:5000
+#EXTINF:-1 group-title="Nacionalni tuji" tvg-id="102" tvg-name="102" tvg-logo="RAI_2.png",RAI 2
+udp://@239.11.2.110:5000
+#EXTINF:-1 group-title="Nacionalni tuji" tvg-id="103" tvg-name="103" tvg-logo="RAI_3.png",RAI 3
+udp://@239.12.2.190:5000
+#EXTINF:-1 group-title="Nacionalni tuji" tvg-id="86" tvg-name="86" tvg-logo="FR2.png",FR2
+udp://@239.12.2.191:5000
+#EXTINF:-1 group-title="Nacionalni tuji" tvg-logo="FR3.png",FR3
+udp://@239.1.2.70:5000
+#EXTINF:-1 group-title="Informativni" tvg-id="98" tvg-name="98" tvg-logo="TVE.png",TVE
+udp://@239.11.2.124:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="100" tvg-name="100" tvg-logo="TL_Novelas_Europe.png",TL Novelas Europe
+udp://@239.12.2.182:5000
+#EXTINF:-1 group-title="Otroški" tvg-id="1000273" tvg-name="1000273" tvg-logo="Karousel.png",Karousel
+udp://@239.20.2.191:5000
+#EXTINF:-1 group-title="Zabavni" tvg-id="1000272" tvg-name="1000272" tvg-logo="Channel_One.png",Channel One
+udp://@239.20.2.190:5000
+#EXTINF:-1 group-title="Nacionalni tuji" tvg-id="RTR_Planeta" tvg-name="RTR_Planeta" tvg-logo="RTR_Planeta.png",RTR Planeta
+udp://@239.1.2.150:5000
+#EXTINF:-1 group-title="Nacionalni tuji" tvg-id="Rusija_24" tvg-name="Rusija_24" tvg-logo="Russia_24.png",Russia 24
+udp://@239.1.2.195:5000
+#EXTINF:-1 group-title="Nacionalni tuji" tvg-id="2000000007" tvg-name="2000000007" tvg-logo="Duna_1.png",Duna 1
+udp://@239.11.2.86:5000
+#EXTINF:-1 group-title="Nacionalni tuji" tvg-id="m2" tvg-name="m2" tvg-logo="Magyar_Televizio_2.png",Magyar Televizio 2
+udp://@239.11.2.98:5000
+#EXTINF:-1 group-title="Nacionalni tuji" tvg-id="2000000003" tvg-name="2000000003" tvg-logo="TV_Polonia.png",TV Polonia
+udp://@239.19.2.205:5000
+#EXTINF:-1 group-title="Duhovni" tvg-id="1000041" tvg-name="1000041" tvg-logo="TV_Exodus.png",TV Exodus
+udp://@239.10.2.23:5000
+#EXTINF:-1 group-title="Duhovni" tvg-id="36" tvg-name="36" tvg-logo="EWTN_Europe.png",EWTN Europe
+udp://@239.11.2.90:5000
+#EXTINF:-1 group-title="Lokalni Slo" tvg-id="1000360" tvg-name="1000360" tvg-logo="TV_Oron_HD.png",TV Oron HD
+udp://@239.10.2.60:5000
+#EXTINF:-1 group-title="Lokalni Slo" tvg-id="1000360" tvg-name="1000360" tvg-logo="TV_Oron_HD.png",TV Oron HD720
+udp://@239.10.14.60:5000
+#EXTINF:-1 group-title="Za odrasle" tvg-id="1000293" tvg-name="1000293" tvg-logo="Balkan_Erotic.png",Balkan Erotic
+udp://@239.18.2.232:5000
+#EXTINF:-1 group-title="Za odrasle" tvg-id="1000304" tvg-name="1000304" tvg-logo="Daring_TV.png",Private TV
+udp://@239.18.2.239:5000
+#EXTINF:-1 group-title="Za odrasle" tvg-id="1000306" tvg-name="1000306" tvg-logo="Hustler_TV.png",Hustler TV
+udp://@239.18.2.240:5000
+#EXTINF:-1 group-title="Za odrasle" tvg-id="1000228" tvg-name="1000228" tvg-logo="Net_XXL.png",Net XXL
+udp://@239.18.2.237:5000
+#EXTINF:-1 group-title="Za odrasle" tvg-id="1000294" tvg-name="1000294" tvg-logo="Play_House.png",Play House
+udp://@239.18.2.235:5000
+#EXTINF:-1 group-title="Za odrasle" tvg-id="1000303" tvg-name="1000303" tvg-logo="Hot_Pleasure.png",Hot Pleasure
+udp://@239.18.2.238:5000
+#EXTINF:-1 group-title="Za odrasle" tvg-id="1000020" tvg-name="1000020" tvg-logo="SCT.png",Exotica TV
+udp://@239.18.2.234:5000
+#EXTINF:-1 group-title="Za odrasle" tvg-id="1000018" tvg-name="1000018" tvg-logo="Hustler_TV_HD.png",Hustler TV HD
+udp://@239.18.2.241:5000
+#EXTINF:-1 group-title="Za odrasle" tvg-id="1000018" tvg-name="1000018" tvg-logo="Hustler_TV_HD.png",Hustler TV HD720
+udp://@239.18.14.241:5000
+#EXTINF:-1 group-title="Za odrasle" tvg-id="1000342" tvg-name="1000342" tvg-logo="Super_One.png",SuperOne HD
+udp://@239.18.1.242:5000
+#EXTINF:-1 group-title="Za odrasle" tvg-id="1000406" tvg-name="1000406" tvg-logo="Sexation_TV.png",Sexation TV
+udp://@239.14.2.13:5000
+#EXTINF:-1 group-title="Za odrasle" tvg-id="1000408" tvg-name="1000408" tvg-logo="Sexation_TV.png",Sexation TV HD
+udp://@239.14.12.9:5000
+#EXTINF:-1 group-title="Za odrasle" tvg-id="1000408" tvg-name="1000408" tvg-logo="Sexation_TV.png",Sexation TV HD720
+udp://@239.12.14.62:5000
+#EXTINF:-1 group-title="Za odrasle" tvg-id="1000440" tvg-name="1000440" tvg-logo="Bangerz.png",Bangerz
+udp://@239.15.2.192:5000
+#EXTINF:-1 group-title="Za odrasle" tvg-id="1000446" tvg-name="1000446" tvg-logo="Bangerz.png",Bangerz HD
+udp://@239.15.12.192:5000
+#EXTINF:-1 group-title="Za odrasle" tvg-id="1000446" tvg-name="1000446" tvg-logo="Bangerz.png",Bangerz HD720
+udp://@239.15.14.192:5000
+#EXTINF:-1 group-title="Za odrasle" tvg-id="1000443" tvg-name="1000443" tvg-logo="Emanuelle.png",Emanuelle
+udp://@239.15.2.198:5000
+#EXTINF:-1 group-title="Za odrasle" tvg-id="1000450" tvg-name="1000450" tvg-logo="Emanuelle.png",Emanuelle HD
+udp://@239.15.12.198:5000
+#EXTINF:-1 group-title="Za odrasle" tvg-id="1000450" tvg-name="1000450" tvg-logo="Emanuelle.png",Emanuelle HD720
+udp://@239.15.14.198:5000
+#EXTINF:-1 group-title="Za odrasle" tvg-id="1000445" tvg-name="1000445" tvg-logo="Fast_Boyz.png",Fast Boyz
+udp://@239.15.2.196:5000
+#EXTINF:-1 group-title="Za odrasle" tvg-id="1000448" tvg-name="1000448" tvg-logo="Fast_Boyz.png",Fast Boyz HD
+udp://@239.15.12.196:5000
+#EXTINF:-1 group-title="Za odrasle" tvg-id="1000448" tvg-name="1000448" tvg-logo="Fast_Boyz.png",Fast Boyz HD720
+udp://@239.15.14.196:5000
+#EXTINF:-1 group-title="Za odrasle" tvg-id="1000442" tvg-name="1000442" tvg-logo="Lesbian_Affair.png",Lesbian Affair
+udp://@239.15.2.193:5000
+#EXTINF:-1 group-title="Za odrasle" tvg-id="1000447" tvg-name="1000447" tvg-logo="Lesbian_Affair.png",Lesbian Affair HD
+udp://@239.15.12.193:5000
+#EXTINF:-1 group-title="Za odrasle" tvg-id="1000447" tvg-name="1000447" tvg-logo="Lesbian_Affair.png",Lesbian Affair HD720
+udp://@239.15.14.193:5000
+#EXTINF:-1 group-title="Za odrasle" tvg-id="1000443" tvg-name="1000443" tvg-logo="Oldtimer.png",Oldtimer
+udp://@239.15.2.199:5000
+#EXTINF:-1 group-title="Za odrasle" tvg-id="1000450" tvg-name="1000450" tvg-logo="Oldtimer.png",Oldtimer HD
+udp://@239.15.12.199:5000
+#EXTINF:-1 group-title="Za odrasle" tvg-id="1000450" tvg-name="1000450" tvg-logo="Oldtimer.png",Oldtimer HD720
+udp://@239.15.14.199:5000
+#EXTINF:-1 group-title="Za odrasle" tvg-id="1000441" tvg-name="1000441" tvg-logo="Taboo.png",Taboo
+udp://@239.15.2.197:5000
+#EXTINF:-1 group-title="Za odrasle" tvg-id="1000449" tvg-name="1000449" tvg-logo="Taboo.png",Taboo HD
+udp://@239.15.12.197:5000
+#EXTINF:-1 group-title="Za odrasle" tvg-id="1000449" tvg-name="1000449" tvg-logo="Taboo.png",Taboo HD720
+udp://@239.15.14.197:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Radio_Slovenija_1.png" radio=true,Radio Slovenija 1
+udp://@239.1.2.1:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Val_202.png" radio=true,Val 202
+udp://@239.1.2.2:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="ARS.png" radio=true,ARS
+udp://@239.1.2.3:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Radio_Slovenia_International.png" radio=true,Radio Slovenia International
+udp://@239.1.2.4:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Radio_Ognjisce.png" radio=true,Radio Ognjišče
+udp://@239.1.2.5:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Radioeins.png" radio=true,Radioeins
+udp://@239.1.2.6:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Prvi_program_HR.png" radio=true,Prvi program HR
+udp://@239.1.2.7:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Drugi_program_HR.png" radio=true,Drugi program HR
+udp://@239.1.2.8:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Treci_program_HR.png" radio=true,Treći program HR
+udp://@239.1.2.9:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Otvoreni_Radio.png" radio=true,Otvoreni Radio
+udp://@239.1.2.10:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Voice_of_Croatia.png" radio=true,Voice of Croatia
+udp://@239.1.2.13:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="HRT_R-Pula.png" radio=true,HRT R-Pula
+udp://@239.1.2.14:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Antena_Zagreb.png" radio=true,Antena Zagreb
+udp://@239.1.2.15:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Radio_Jump.png" radio=true,Radio Jump
+udp://@239.1.2.24:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Deutschlandfunk.png" radio=true,Deutschlandfunk
+udp://@239.1.2.41:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Deutschlandradio_Kultur.png" radio=true,Deutschlandradio Kultur
+udp://@239.1.2.42:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="DW1.png" radio=true,DW1
+udp://@239.1.2.43:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="HR2.png" radio=true,HR2
+udp://@239.1.2.44:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="MDR_Info.png" radio=true,MDR Info
+udp://@239.1.2.45:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="MDR_Figaro.png" radio=true,MDR Figaro
+udp://@239.1.2.46:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="MDR_1_Radio_Sachsen.png" radio=true,MDR 1 Radio Sachsen
+udp://@239.1.2.47:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="MDR_1_Radio_Sachsen-Anhalt.png" radio=true,MDR 1 Radio Sachsen-Anhalt
+udp://@239.1.2.48:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="MDR_1_Radio_Thuringen.png" radio=true,MDR 1 Radio Thuringen
+udp://@239.1.2.49:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="MDR_Klassik.png" radio=true,MDR Klassik
+udp://@239.1.2.50:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Bremen_Eins.png" radio=true,Bremen Eins
+udp://@239.1.2.51:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="MDR_Sputnik.png" radio=true,MDR Sputnik
+udp://@239.1.2.52:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="MDR_Sputnik_Black-Stream.png" radio=true,MDR Sputnik Black-Stream
+udp://@239.1.2.53:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="MDR_Sputnik_Club-Stream.png" radio=true,MDR Sputnik Club-Stream
+udp://@239.1.2.54:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="MDR_Sputnik_Insomnia-Stream.png" radio=true,MDR Sputnik Insomnia-Stream
+udp://@239.1.2.55:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="MDR_Sputnik_Rock-Stream.png" radio=true,MDR Sputnik Rock-Stream
+udp://@239.1.2.56:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="NRJ.png" radio=true,NRJ
+udp://@239.1.2.57:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Cherie_FM.png" radio=true,Cherie FM
+udp://@239.1.2.58:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Radio_Nostalgie.png" radio=true,Radio Nostalgie
+udp://@239.1.2.60:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Hitradio_Oe3.png" radio=true,Hitradio Ö3
+udp://@239.1.2.65:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Rire_Et_Chansons.png" radio=true,Rire Et Chansons
+udp://@239.1.2.66:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="FM4.png" radio=true,FM4
+udp://@239.1.2.67:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Oe1_Inforadio.png" radio=true,Ö1 Inforadio
+udp://@239.1.2.68:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="ORF_III.png" radio=true,ORF III
+udp://@239.1.2.69:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Radio_Maribor.png" radio=true,Radio Maribor
+udp://@239.1.2.70:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Radio_VIP.png" radio=true,Radio VIP
+udp://@239.1.2.100:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Radio_Koper.png" radio=true,Radio Koper
+udp://@239.1.2.103:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="OTV_Radio_Valentino.png" radio=true,OTV Radio Valentino
+udp://@239.1.2.106:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Antenne_Brandenburg.png" radio=true,Antenne Brandenburg
+udp://@239.1.2.107:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="N-JOY.png" radio=true,N-JOY
+udp://@239.1.2.12:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Radio_1.png" radio=true,Radio 1
+udp://@239.1.2.114:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Radio_Fokus.png" radio=true,Radio Fokus
+udp://@239.1.2.117:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Radio_Posavina.png" radio=true,Radio Posavina
+udp://@239.1.2.119:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Radio_Biser_Posavine.png" radio=true,Radio Biser Posavine
+udp://@239.1.2.120:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Radio_Bobar.png" radio=true,Radio Bobar
+udp://@239.1.2.121:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="BBC_Radio.png" radio=true,BBC Radio
+udp://@239.1.2.124:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Radio_Capodistria.png" radio=true,Radio Capodistria
+udp://@239.1.2.127:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Radio_Capris.png" radio=true,Radio Capris
+udp://@239.1.2.140:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Radio_City.png" radio=true,Radio City
+udp://@239.1.2.141:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Radio_Antena.png" radio=true,Radio Antena
+udp://@239.1.2.143:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Radio_Sraka.png" radio=true,Radio Sraka
+udp://@239.1.2.145:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Radio_94_in_NTR.png" radio=true,Radio 94 in NTR
+udp://@239.1.2.146:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Radio_Ptuj.png" radio=true,Radio Ptuj
+udp://@239.1.2.147:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Radio_Kum.png" radio=true,Radio Kum
+udp://@239.1.2.148:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Radio_Salomon.png" radio=true,Radio Salomon
+udp://@239.1.2.149:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Radio_Center_-_LJ.png" radio=true,Radio Center - LJ
+udp://@239.1.2.150:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="BR-Klassik.png" radio=true,BR-Klassik
+udp://@239.1.2.151:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="1Live_Diggi.png" radio=true,1Live Diggi
+udp://@239.1.2.152:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Radio_Celje.png" radio=true,Radio Celje
+udp://@239.1.2.153:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="1Live.png" radio=true,1Live
+udp://@239.1.2.156:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Radio_Ena.png" radio=true,Radio 1
+udp://@239.1.2.157:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Kiraka.png" radio=true,Kiraka
+udp://@239.1.2.158:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Radio_Krka.png" radio=true,Radio Krka
+udp://@239.1.2.159:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="On3_Radio.png" radio=true,On3 Radio
+udp://@239.1.2.160:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Radio_Potepuh.png" radio=true,Radio Potepuh
+udp://@239.1.2.161:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Radio_BIR.png" radio=true,Radio BIR
+udp://@239.1.2.162:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Radio_Tomi.png" radio=true,Radio Tomi
+udp://@239.1.2.163:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Swiss_Jazz_FM.png" radio=true,Swiss Jazz FM
+udp://@239.1.2.165:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Radio_Ekspres.png" radio=true,Radio Ekspres
+udp://@239.1.2.170:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Radio_Hit.png" radio=true,Radio Hit
+udp://@239.1.2.172:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Radio_Stajerski_val.png" radio=true,Radio Štajerski val
+udp://@239.1.2.173:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Radio_Kranj.png" radio=true,Radio Kranj
+udp://@239.1.2.174:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Radio_Odmev.png" radio=true,Radio Odmev
+udp://@239.1.2.175:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Radio_Triglav.png" radio=true,Radio Triglav
+udp://@239.1.2.176:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Radio_Veseljak.png" radio=true,Radio Veseljak
+udp://@239.1.2.177:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Koroski_Radio.png" radio=true,Koroški Radio
+udp://@239.1.2.179:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Radio_Student.png" radio=true,Radio Študent
+udp://@239.1.2.181:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Radio_Paradise.png" radio=true,Radio Paradise
+udp://@239.1.2.182:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Radio_Net_FM.png" radio=true,Radio Net FM
+udp://@239.1.2.185:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Radio_Zeleni_Val.png" radio=true,Radio Zeleni Val
+udp://@239.1.2.186:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Radio_Prlek.png" radio=true,Radio Prlek
+udp://@239.1.2.187:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Radio_Sora.png" radio=true,Radio Sora
+udp://@239.1.2.188:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Moj_Radio.png" radio=true,Moj Radio
+udp://@239.1.2.189:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Alpski_Val.png" radio=true,Alpski Val
+udp://@239.1.2.190:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Radio_Laser.png" radio=true,Radio Laser
+udp://@239.1.2.192:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Radio_Fantasy.png" radio=true,Radio Fantasy
+udp://@239.1.2.195:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Radio_Rogla.png" radio=true,Radio Rogla
+udp://@239.1.2.196:5000
+#EXTINF:-1 group-title="Radio" tvg-logo="Radio_Aktual.png" radio=true,Radio Aktual
+udp://@239.1.2.199:5000
